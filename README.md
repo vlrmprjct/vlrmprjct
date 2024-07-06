@@ -2,7 +2,12 @@
   - Hardcore introvert 
   - Unapologetic vinyl fanatic
   - Incurable internet nerd
+  - Camper-Hacker and
+  - Youngtimer Owner
   - Modular synth builder
+  - Hardware Maker
   - Soundfetishist
-  - Camperhacker 
+  - Producer and Ex-DJ
+  - Bored by superficial people
+  - Still not lovin FB/IG, even in 2024.
   - and sometimes Yes, a developer.
