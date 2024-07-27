@@ -11,3 +11,5 @@
   - Bored by superficial people
   - Still not lovin FB/IG, even in 2024.
   - and sometimes Yes, a developer.
+
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vlrmprjct)
