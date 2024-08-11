@@ -12,5 +12,6 @@
   - Still not lovin FB/IG, even in 2024.
   - and sometimes Yes, a developer.
 
+<p></p><p></p>
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vlrmprjct)
