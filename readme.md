@@ -13,4 +13,4 @@
   - and sometimes Yes, a developer.
 
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vlrmprjct)
+<!-- ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=vlrmprjct) -->
