@@ -4,10 +4,10 @@
   - Incurable internet nerd
   - Camper-Hacker and
   - Youngtimer Owner
-  - Modular synth builder
+  - Modular synth builder 
   - Hardware Maker
   - Soundfetishist
-  - Producer and Ex-DJ
+  - Producer
   - Bored by superficial people
   - Still not lovin FB/IG, even in 2024.
-  - and sometimes Yes, a developer.
+  - and sometimes Yes, a developer :)
