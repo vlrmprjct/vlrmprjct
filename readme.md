@@ -9,5 +9,5 @@
   - Soundfetishist
   - Producer
   - Bored by superficial people
-  - Still not lovin FB/IG, even in 2025.
+  - Still not lovin FB/IG, even in 2026.
   - and sometimes Yes, a developer :)
